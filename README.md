@@ -57,5 +57,5 @@ Training Dataset : Training Dataset used in this notebook is Twitter Airline Sen
 As I found the process of getting ELMO embeddings very cumbersome (not as straightforward as HuggingFace's Bert and Xlnet implementations), I did this part in a separate notebook. Also note that the ELMO Embeddings are very large in size. 
 
 ## CONCLUSION 
-*** SPOILER ALERT ***
+*** SPOILER ALERT *** </br>
 BERT is the best Context Aware Embedding with basic preprocessing of text without lemmatization and without stop word removal.
